@@ -1,0 +1,72 @@
+@media only screen and (max-width: 600px) {
+	#block-olivero-languagedropdownswitcher{
+		position: unset !important;
+		margin-top: 10px;
+	}
+	#block-olivero-content .field--type-text-with-summary p{
+		width: 74%;
+	}
+	body .dialog-off-canvas-main-canvas .page-wrapper{
+		max-width: none !important;
+	}
+	.mobile-buttons{
+		margin-top: 37px;
+	}
+}
+
+@media only screen and (max-width: 810px) {
+	#block-olivero-languagedropdownswitcher{
+		position: unset !important;
+		margin-top: 33px;
+	}
+	body .dialog-off-canvas-main-canvas .page-wrapper{
+		max-width: none !important;
+	}
+	.mobile-buttons{
+		margin-top: 37px;
+	}
+}
+
+@media only screen and (max-width: 400px) {
+	#block-olivero-content .field--type-text-with-summary p{
+		width: 70%;
+	}
+	body .dialog-off-canvas-main-canvas .page-wrapper{
+		max-width: none !important;
+	}
+	.mobile-buttons{
+		margin-top: 37px;
+	}
+	#block-olivero-content .teaser__top{
+		width: 71%;
+	}
+	#block-olivero-content .field--type-text-with-summary h3{
+		width: 70%;
+	}
+	#block-olivero-content .media--type-video{
+		width: 65%;
+	}
+}
+
+body .dialog-off-canvas-main-canvas .page-wrapper{
+	max-width: none;
+}
+
+.site-branding__text a{
+	color: black;
+}
+
+#block-olivero-languagedropdownswitcher{
+	position: absolute;
+  	left: 85pc;
+  	top: 96px;
+}
+
+.site-header__initial{
+	background-color: #f9f9f9;
+}
+
+.social-bar{
+    background-color: #f9f9f9;
+}
+
